@@ -1,14 +1,14 @@
-### Top Languages
+# Top Languages
 * Python
 * Go
 
-### Libraries and Tools
-# Libraries
+# Libraries and Tools
+## Libraries
 * Pandas
 * Numpy
 * Matplotlib
 
-# Tools
+## Tools
 * Docker
 * MongoDB
 
