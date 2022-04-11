@@ -12,17 +12,12 @@ Below are the learning objectives for 2022 and beyond
 # Languages
 * Python
 * Go
+* Javascript
 * HTML
 * CSS
 * SQL
 
-# Libraries and Tools
-## Libraries
-* Pandas
-* Numpy
-* Matplotlib
-
-## Tools
+# Tools
 * Docker
 * MongoDB
 * Linux
