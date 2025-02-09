@@ -10,15 +10,15 @@ Below are the learning objectives for 2022 and beyond
 - [ ] Become more familiar with using Go for backend projects
 
 # Languages
-* Python
-* Go
-* Javascript
-* HTML
-* CSS
 * SQL
+* Python
+* C#
+* PowerShell
+* Go
 
 # Tools
-* Docker
-* MongoDB
+* MS SQL Server
+* SSRS
+* SSIS 
 * Linux
 
